@@ -1,0 +1,5 @@
+
+*.prefs
+.classpath
+.DS_Store
+.project
